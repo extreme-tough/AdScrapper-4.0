@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TreeView xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" AllowDragDrop="true">
+<Nodes Text="allinanchor"></Nodes>
+<Nodes Text="inanchor"></Nodes>
+<Nodes Text="allintext"></Nodes>
+<Nodes Text="intext"></Nodes>
+<Nodes Text="allintitle"></Nodes>
+<Nodes Text="intitle"></Nodes>
+<Nodes Text="allinurl"></Nodes>
+<Nodes Text="inurl"></Nodes>
+</TreeView>
